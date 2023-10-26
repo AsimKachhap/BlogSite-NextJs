@@ -7,6 +7,7 @@ const Navbar = () => {
       <div className="flex items-center justify-center gap-4">
         <div>Home</div>
         <div>Blogs</div>
+        <div className="cursor-pointer">Write a Blog </div>
         <div>Login</div>
       </div>
     </div>
